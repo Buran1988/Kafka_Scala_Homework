@@ -1,4 +1,4 @@
-# Kafka_Scala_Homework
+# Unit Measuring Streams
 This repository is intended to demonstrate main features of Kafka streaming.
 
 Provide the following arguments when running:
